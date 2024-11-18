@@ -303,13 +303,13 @@
         width: 100%;
     }
 
-    .ropas {
+        .ropas {
         width: 45%;
         border-radius: 10px;
         padding: 15px;
         background-color: #fff;
         transition: 1s;
-        height: 350px;
+        height: 385px;
     }
 
     .ropaimg img {
@@ -669,13 +669,13 @@
 
 @media (max-width: 420px) {
 
-    .ropas {
+        .ropas {
         width: 45%;
         border-radius: 10px;
         padding: 15px;
         background-color: #fff;
         transition: 1s;
-        height: 335px;
+        height: 385px;
     }
     .navbar {
         display: flex;
